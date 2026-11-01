@@ -20,4 +20,3 @@ You don't need npm, node, or any build tools.
 
 ​Just double-click index.html to open it in your browser.
 (Or run python -m http.server inside the folder if you prefer localhost).
-```
