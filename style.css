@@ -1,3 +1,5 @@
+
+
 :root {
   --bg: black;
   --border: grey;
@@ -28,6 +30,14 @@ body {
 
 header {
   margin-bottom: 32px;
+}
+
+
+h2 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: -0.5px;
 }
 
 h1 {
