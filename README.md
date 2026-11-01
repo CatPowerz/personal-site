@@ -15,7 +15,7 @@ You don't need npm, node, or any build tools.
 
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com/CatPowerz/personal-site
+   git clone https://github.com/CatPowerz/personal-site.git
    
 
 ​Just double-click index.html to open it in your browser.
