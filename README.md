@@ -1,11 +1,23 @@
 # Personal Site
 
-**A personal site!** Actually!
+A simple portfolio where I can show off my work. I'm usually not good at making websites for myself (it always feels a bit wrong, the real work is in the projects themselves lol). 
 
-A personal site (portfolio) where I can show off my work. I'm not good at making websites for myself. It feels... wrong?
+Made with passion and some serious time constraints before Stardance ends.
 
-Nevermind. Click through, see other projects. The hardest work is in the projects themselves, not this website.
+## What is this & how it works
+It's just a lightweight, framework-free personal site. 
+- Written in plain HTML5 and a separate `style.css` file for dark mode and mobile layout.
+- Split into three small sections: a short bio, my recent projects (RoboTrack and La Pendery), and my tech stack.
+- Deployed via GitHub Pages.
 
-**Made with passion and time constraint bc stardance is ending by me lol**
+## How to run it locally
+You don't need npm, node, or any build tools.
 
-I tried to make the code as clean as it can be. But also short.
+1. Clone or download this repo:
+   ```bash
+   git clone https://github.com/CatPowerz/personal-site
+   
+
+​Just double-click index.html to open it in your browser.
+(Or run python -m http.server inside the folder if you prefer localhost).
+```
